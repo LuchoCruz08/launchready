@@ -88,9 +88,11 @@ export default function Pricing() {
                 <p className="mt-4 text-3xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-violet-400 to-violet-600">
                   {formatPrice(isArgentina ? plan.priceARS : plan.priceUSD, isArgentina)}
                 </p>
-                <Button className="mt-8 w-full bg-violet-600 hover:bg-violet-700 transition-colors duration-300">
-                  Get started
-                </Button>
+                <a href='https://launchready.fillout.com/t/tNCx2FDgBvus' target='_blank'>
+                  <Button className="mt-8 w-full bg-violet-600 hover:bg-violet-700 transition-colors duration-300">
+                    Get started
+                  </Button>
+                </a>
               </div>
               <div className="pt-6 pb-8 px-6">
                 <h4 className="text-sm font-medium text-gray-300 uppercase tracking-wide">Whats included</h4>

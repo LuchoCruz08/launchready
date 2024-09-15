@@ -41,7 +41,7 @@ export default function Footer() {
           </p>
           <div className="mt-4 md:mt-0">
             <a
-              href="mailto:contact@launchready.com"
+              href="mailto:launchready1@gmail.com"
               className="inline-flex items-center px-6 py-3 border border-transparent text-base font-medium rounded-full text-white bg-violet-600 hover:bg-violet-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-violet-500 transition-colors duration-300 shadow-lg hover:shadow-violet-500/50"
             >
               <Mail className="h-5 w-5 mr-2" />

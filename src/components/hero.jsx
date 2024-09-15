@@ -21,7 +21,7 @@ export default function Hero() {
           </p>
 
           <div className="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4">
-            <a href="mailto:launchready@gmail.com" target="_blank">
+            <a href="https://launchready.fillout.com/t/tNCx2FDgBvus" target="_blank">
               <Button
                 size="lg"
                 className="group bg-violet-600 hover:bg-violet-700 text-white shadow-lg hover:shadow-xl transition-all duration-300 ease-in-out transform hover:scale-105"
