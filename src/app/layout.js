@@ -16,6 +16,9 @@ const geistMono = localFont({
 export const metadata = {
   title: "LaunchReady",
   description: "We turn your Ideas into Reality",
+  icons: {
+    icon: "/rocket.svg"
+  }
 };
 
 export default function RootLayout({ children }) {
