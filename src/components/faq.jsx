@@ -23,7 +23,7 @@ const faqs = [
   },
   {
     question: "How much does it cost to develop an MVP?",
-    answer: "Our pricing plans start at $25 USD or $25.000 ARS. The cost depends on the complexity of your project and the features you want to include in your MVP. We offer flexible pricing to suit different budgets."
+    answer: "Our pricing plans start at $25 USD or $30.000 ARS. The cost depends on the complexity of your project and the features you want to include in your MVP. We offer flexible pricing to suit different budgets."
   },
   {
     question: "Do I need technical knowledge to work with you?",
